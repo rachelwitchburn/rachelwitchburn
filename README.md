@@ -1,4 +1,4 @@
-<h1>Oie! Eu sou a Raquel Melo 👩🏻‍💻<h1>  
+<h1>Oie! Eu sou a Raquel Melo 👩🏻‍💻: https://www.linkedin.com/in/raquel-melo-727685234/<h1>  
 <p><em>desenvolvedora FullStack</em>
 
   🔧 Ferramentas e tecnologias:
