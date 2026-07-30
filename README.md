@@ -1,5 +1,5 @@
 <h1>Oie! Eu sou a Raquel Melo 👩🏻‍💻: https://www.linkedin.com/in/raquel-melo-727685234/<h1>  
-<p><em>desenvolvedora FullStack</em>
+<p><em>desenvolvedora Back-end</em>
 
   🔧 Ferramentas e tecnologias:
 </p>
