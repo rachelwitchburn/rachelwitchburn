@@ -1,8 +1,32 @@
-<h1>Oie! Eu sou a Raquel Melo 👩🏻‍💻: https://www.linkedin.com/in/raquel-melo-727685234/<h1>  
-<p><em>desenvolvedora Back-end</em>
+# 👋 Oi, eu sou a Raquel
 
-  🔧 Ferramentas e tecnologias:
-</p>
+## 💼 Perfil Profissional
 
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/c0c03091-301a-407c-8732-5da547b5aefe" />
-<img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="50"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50"> <img src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png" width="50"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width="50"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" width="50"> <img src="https://cdn-icons-png.flaticon.com/128/15474/15474209.png" width="50">
+- 💻 Estudante de Programação
+- 🌱 Apaixonada por Tecnologia
+- 🎓 Cursando Computação / UEPB
+
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=golang,python,java,javascript)](https://skillicons.dev)
+
+<!--
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+-->
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,webstorm,pycharm,intellij)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-{raquelmeloq@hotmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{raquelmeloq})
+[![Linkedin: Raquel](https://img.shields.io/badge/-raquelmelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/raquel-melo-727685234)](www.linkedin.com/in/raquel-melo-727685234)
+<br><br>
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
