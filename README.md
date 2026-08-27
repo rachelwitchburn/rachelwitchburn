@@ -6,9 +6,9 @@
 - 🌱 Apaixonada por Tecnologia
 - 🎓 Cursando Computação / UEPB
 
-## 🚀 Habilidades
+## Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+Estas são algumas das linguagens de programação e tecnologias que estou familiarizada e gosto de usar 😁:
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=golang,python,java,javascript)](https://skillicons.dev)
