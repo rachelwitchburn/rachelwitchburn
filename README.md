@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Raquel
+# 👋 Oii, eu sou a Raquel! Tudo bem?
 
 ## 💼 Perfil Profissional
 
