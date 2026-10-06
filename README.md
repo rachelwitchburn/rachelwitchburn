@@ -23,10 +23,6 @@ Estas são algumas das linguagens de programação e tecnologias que estou famil
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,webstorm,pycharm,intellij)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
-
-![Gmail Badge](https://img.shields.io/badge/-{raquelmeloq@hotmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{raquelmeloq})
-[![Linkedin: Raquel](https://img.shields.io/badge/-raquelmelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/raquel-melo-727685234)](www.linkedin.com/in/raquel-melo-727685234)
-<br><br>
+<hr>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
